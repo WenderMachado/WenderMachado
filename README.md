@@ -1,5 +1,5 @@
 # 💫 About Me:
-Em transção para o mundo da tecnologia, venho me desenvolvendo cada vez mais no mundo tech.
+Em transição para o mundo da tecnologia, venho me desenvolvendo cada vez mais no mundo tech.
 
 
 ## 🌐 Socials:
