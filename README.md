@@ -13,6 +13,6 @@ Em transição para o mundo da tecnologia, venho me desenvolvendo cada vez mais 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WenderMachado&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-![GitHub Views](https://komarev.com/ghpvc/?username=WenderMachado)
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWenderMachado&s=40&c=0e72be&bg=00000000&no=2&ff=digi&tb=profile+visits%3A+&ta=)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
