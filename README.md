@@ -15,4 +15,5 @@ Em transição para o mundo da tecnologia, venho me desenvolvendo cada vez mais 
 ---
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWenderMachado&s=40&c=0e72be&bg=00000000&no=2&ff=digi&tb=profile+visits%3A+&ta=)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=581531&textBg=false&reversal=false&animation=fadeIn&descAlign=0&descAlignY=100&fontAlign=50&section=footer"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
