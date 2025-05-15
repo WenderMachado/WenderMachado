@@ -1,3 +1,6 @@
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dsNmx1NjJvOWl1NmM1bXR2M3o5MWRuOWhwemZ3dGptaXkwNnE1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Plrv7v60bKRe7zrMSv/giphy.gif" width="100%" height="100"/>
+
+
 # 💫 About Me:
 Em transição para o mundo da tecnologia, venho me desenvolvendo cada vez mais no mundo tech.
 
@@ -17,3 +20,4 @@ Em transição para o mundo da tecnologia, venho me desenvolvendo cada vez mais 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=581531&textBg=false&reversal=false&animation=fadeIn&descAlign=0&descAlignY=100&fontAlign=50&section=footer"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
