@@ -1,11 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=255980&reversal=true&textBg=false&descAlign=54&descSize=34"/>
 
 
- <h2 align = center>👋 Seja bem-vindo ao meu GitHub  </h2>
+<h2 align = center>👋 Seja bem-vindo ao meu GitHub  </h2>
 <img 
   src="https://github.com/user-attachments/assets/b2223cee-5ca7-4f0a-ba07-77351ccff6b0" 
   alt="profile-anime" 
-  width="200" 
+  width="250" 
   align="right" 
   style="border-radius: 12px;" 
 />
@@ -35,17 +35,21 @@ back-end:
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff) -->
 
 
-### 📊 GitHub Stats:
+#### 📊 GitHub Stats:
+<div>
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=WenderMachado&show_icons=true&hide_title=true&hide_border=true&bg_color=183d58&title_color=ffffff&text_color=ffffff&icon_color=ffffff" 
-  width="48%" 
-/>
+  src="https://github-readme-stats.vercel.app/api?username=WenderMachado&show_icons=true&hide_title=true&hide_border=true&bg_color=102b40&title_color=ffffff&text_color=ffffff&icon_color=ffffff" 
+  width="40%" 
+/> 
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenderMachado&layout=compact&hide_border=true&bg_color=183d58&title_color=ffffff&text_color=ffffff" 
-  width="48%" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenderMachado&layout=compact&hide_border=true&bg_color=102b40&title_color=ffffff&text_color=ffffff" 
+  width="40%" 
 />
----
+
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWenderMachado&s=40&c=0e72be&bg=00000000&no=2&ff=digi&tb=profile+visits%3A+&ta=)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=255980&reversal=true&textBg=false&descAlign=54&descSize=34&section=footer"/>
+
+</div>
+
