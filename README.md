@@ -47,7 +47,7 @@ back-end:
   width="40%" 
 />
 
-<img align=right src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWenderMachado&s=32&c=0f385c&bg=00000000&no=3&ff=digi&tb=++Profile+Visitors%3A+&ta=" alt="visits"> 
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWenderMachado&s=32&c=a3cff0&bg=04212f&no=3&ff=digi&tb=++Profile+Visitors%3A+&ta=" alt="visits">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=255980&reversal=true&textBg=false&descAlign=54&descSize=34&section=footer"/>
 
