@@ -1,23 +1,51 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dsNmx1NjJvOWl1NmM1bXR2M3o5MWRuOWhwemZ3dGptaXkwNnE1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Plrv7v60bKRe7zrMSv/giphy.gif" width="100%" height="100"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=255980&reversal=true&textBg=false&descAlign=54&descSize=34"/>
 
 
-# 💫 About Me:
-Em transição para o mundo da tecnologia, venho me desenvolvendo cada vez mais no mundo tech.
+ <h2 align = center>👋 Seja bem-vindo ao meu GitHub  </h2>
+<img 
+  src="https://github.com/user-attachments/assets/b2223cee-5ca7-4f0a-ba07-77351ccff6b0" 
+  alt="profile-anime" 
+  width="200" 
+  align="right" 
+  style="border-radius: 12px;" 
+/>
+
+### Minhas Staks: 
+front-end
+
+![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
+![Sass](https://img.shields.io/badge/-Sass-232323?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=7952B3&logo=bootstrap&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-232323?style=flat&labelColor=06B6D4&logo=tailwindcss&logoColor=ffffff)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6)
+![Vite](https://img.shields.io/badge/-Vite-232323?style=flat&labelColor=646CFF&logo=vite&logoColor=ffe330)
+![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
+![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
+
+back-end:
+<!-- 
+![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express-232323?style=flat&labelColor=000000&logo=express&logoColor=ffffff)
+![Sequelize](https://img.shields.io/badge/-Sequelize-232323?style=flat&labelColor=000000&logo=sequelize&logoColor=52B0E7)
+![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff) -->
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wender-machado/) 
+### 📊 GitHub Stats:
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=WenderMachado&show_icons=true&hide_title=true&hide_border=true&bg_color=183d58&title_color=ffffff&text_color=ffffff&icon_color=ffffff" 
+  width="48%" 
+/>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WenderMachado&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=WenderMachado&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WenderMachado&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenderMachado&layout=compact&hide_border=true&bg_color=183d58&title_color=ffffff&text_color=ffffff" 
+  width="48%" 
+/>
 ---
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWenderMachado&s=40&c=0e72be&bg=00000000&no=2&ff=digi&tb=profile+visits%3A+&ta=)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=581531&textBg=false&reversal=false&animation=fadeIn&descAlign=0&descAlignY=100&fontAlign=50&section=footer"/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=255980&reversal=true&textBg=false&descAlign=54&descSize=34&section=footer"/>
