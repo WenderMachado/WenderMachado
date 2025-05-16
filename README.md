@@ -4,7 +4,7 @@
 <h2 align = center>👋 Seja bem-vindo ao meu GitHub  </h2>
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/wender-machado/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/wender-machado/)](https://www.linkedin.com/in/wender-machado/)" target="_blank">
     <img 
       src="https://img.shields.io/badge/LinkedIn-10324b?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=10324b&color=10324b" 
       alt="LinkedIn" 
