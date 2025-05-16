@@ -2,6 +2,22 @@
 
 
 <h2 align = center>👋 Seja bem-vindo ao meu GitHub  </h2>
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/wender-machado/)" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-10324b?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=10324b&color=10324b" 
+      alt="LinkedIn" 
+    />
+  </a>
+
+  <a href="mailto:devwendermachado@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Email-10324b?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=10324b&color=10324b" 
+      alt="Email" 
+    />
+  </a>
+</p>
 <img 
   src="https://github.com/user-attachments/assets/b2223cee-5ca7-4f0a-ba07-77351ccff6b0" 
   alt="profile-anime" 
@@ -38,9 +54,9 @@ back-end:
 #### 📊 GitHub Stats:
 <div>
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=WenderMachado&show_icons=true&hide_title=true&hide_border=true&bg_color=102b40&title_color=ffffff&text_color=ffffff&icon_color=ffffff" 
+  src="https://github-readme-stats.vercel.app/api?username=WenderMachado&show_icons=true&hide_title=true&hide_border=true&bg_color=102b40&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true" 
   width="40%" 
-/> 
+/>
 
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenderMachado&layout=compact&hide_border=true&bg_color=102b40&title_color=ffffff&text_color=ffffff" 
@@ -53,3 +69,7 @@ back-end:
 
 </div>
 
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
