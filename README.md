@@ -53,23 +53,23 @@ back-end:
 
 #### 📊 GitHub Stats:
 <div>
-<img 
+<!-- <img 
   src="https://github-readme-stats.vercel.app/api?username=WenderMachado&show_icons=true&hide_title=true&hide_border=true&bg_color=102b40&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true" 
   width="40%" 
-/>
-
+/> -->
+<!-- 
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenderMachado&layout=compact&hide_border=true&bg_color=102b40&title_color=ffffff&text_color=ffffff" 
   width="40%" 
-/>
+/> -->
 
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWenderMachado&s=32&c=a3cff0&bg=04212f&no=3&ff=digi&tb=++Profile+Visitors%3A+&ta=" alt="visits">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=255980&reversal=true&textBg=false&descAlign=54&descSize=34&section=footer"/>
+
 
 </div>
 
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=255980&reversal=true&textBg=false&descAlign=54&descSize=34&section=footer"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
