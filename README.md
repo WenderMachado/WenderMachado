@@ -1,9 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=255980&reversal=true&textBg=false&descAlign=54&descSize=34"/>
 
-
-<h2 align = center>👋 Seja bem-vindo ao meu GitHub  </h2>
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=100&color=3C9DE4&width=700&lines=Hi%2C+I%E2%80%99m+Wender;I+work+as+a+front-end+developer;I%E2%80%99m+a+student+of+Systems+Analysis+and+Development;I%E2%80%99m+from+Brazil" alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center">
   <a href="https://www.linkedin.com/in/wender-machado/" target="_blank">
     <img 
       src="https://img.shields.io/badge/LinkedIn-10324b?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=10324b&color=10324b" 
@@ -18,6 +21,8 @@
     />
   </a>
 </p>
+
+
 <img 
   src="https://github.com/user-attachments/assets/b2223cee-5ca7-4f0a-ba07-77351ccff6b0" 
   alt="profile-anime" 
@@ -72,4 +77,3 @@ back-end:
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=255980&reversal=true&textBg=false&descAlign=54&descSize=34&section=footer"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
