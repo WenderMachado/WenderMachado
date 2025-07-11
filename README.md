@@ -47,7 +47,7 @@ back-end:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff) -->
-
+<p>
 <img 
   src="https://github.com/user-attachments/assets/b2223cee-5ca7-4f0a-ba07-77351ccff6b0" 
   alt="profile-anime" 
@@ -55,6 +55,7 @@ back-end:
   align="right" 
   style="border-radius: 12px;" 
 />
+</p>
 
 #### 📊 GitHub Stats:
 <div>
@@ -69,7 +70,6 @@ back-end:
 /> 
 
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWenderMachado&s=32&c=a3cff0&bg=04212f&no=3&ff=digi&tb=++Profile+Visitors%3A+&ta=" alt="visits">
-
 
 
 </div>
