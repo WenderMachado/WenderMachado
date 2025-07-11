@@ -29,6 +29,7 @@
   src="https://github.com/user-attachments/assets/b2223cee-5ca7-4f0a-ba07-77351ccff6b0" 
   alt="profile-anime" 
   width="250" 
+  height="auto"
   align="right" 
   style="border-radius: 12px;" 
 />
