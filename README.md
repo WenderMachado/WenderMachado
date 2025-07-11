@@ -49,7 +49,7 @@ back-end:
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff) -->
 <p>
 
-  <br clear="all">
+
 <img 
   src="https://github.com/user-attachments/assets/b2223cee-5ca7-4f0a-ba07-77351ccff6b0" 
   alt="profile-anime" 
@@ -58,7 +58,7 @@ back-end:
   style="border-radius: 12px;" 
 />
 </p>
-
+  <br clear="all">
 #### 📊 GitHub Stats:
 <div>
 <img 
