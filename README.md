@@ -48,6 +48,8 @@ back-end:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff) -->
 <p>
+
+  <br clear="all">
 <img 
   src="https://github.com/user-attachments/assets/b2223cee-5ca7-4f0a-ba07-77351ccff6b0" 
   alt="profile-anime" 
