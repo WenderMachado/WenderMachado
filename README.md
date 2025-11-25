@@ -43,21 +43,8 @@
 
 ---
 
-## 📊 GitHub Stats:
 
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=WenderMachado&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark"
-    width="48%"
-    alt="Wender's GitHub stats" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenderMachado&layout=compact&hide_border=true&theme=dark"
-    width="48%"
-    alt="Wender's top languages" />
-</p>
-
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWenderMachado&s=32&c=a3cff0&bg=04212f&no=3&ff=digi&tb=++Profile+Visit
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWenderMachado&s=32&c=a3cff0&bg=04212f&no=3&ff=digi&tb=++Profile+Visit>
 
 
 
