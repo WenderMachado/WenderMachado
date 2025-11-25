@@ -42,10 +42,6 @@
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=nextdotjs&logoColor=ffffff)
 
 ---
-
-
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWenderMachado&s=32&c=a3cff0&bg=04212f&no=3&ff=digi&tb=++Profile+Visitors%3A+&ta=" alt="visits"/>
-
-
+</div>
 
 
