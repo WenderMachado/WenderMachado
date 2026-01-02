@@ -15,7 +15,7 @@
 
 <p>
   Hello there! 👋<br>
-  I’m Wender, a front-end developer and a student of Systems Analysis and Development. I love building beautiful and functional interfaces and learning new technologies every day.<br><br>
+  I’m Wender, a front-end developer and a student of Systems Analysis and Development.<br><br>
 
   <img 
     src="https://github.com/user-attachments/assets/b2223cee-5ca7-4f0a-ba07-77351ccff6b0"
