@@ -5,17 +5,22 @@
 </p>
 
 <p align="center">
+  
   <a href="https://www.linkedin.com/in/wender-machado/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  
   <a href="mailto:devwendermachado@gmail.com">
     <img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  
 </p>
 
 <p>
+  
   Hello there! 👋<br>
-  I’m Wender, a front-end developer and a student of Systems Analysis and Development.<br><br>
+  
+  I’m Wender, a front-end developer and a student of Systems Analysis and Development.
 
   <img 
     src="https://github.com/user-attachments/assets/b2223cee-5ca7-4f0a-ba07-77351ccff6b0"
@@ -25,10 +30,12 @@
     style="border-radius:12px;"
   />
 
-  ### Here's some of the stuff I like to use:
+  
 </p>
 
-**In the front-end:**  
+## Here's some of the stuff I like to use:
+
+ ### In the front-end:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=ffffff)
@@ -41,7 +48,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000)
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=nextdotjs&logoColor=ffffff)
 
----
-</div>
+
 
 
