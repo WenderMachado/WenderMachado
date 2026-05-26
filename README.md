@@ -48,5 +48,9 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000)
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=nextdotjs&logoColor=ffffff)
 
+ ### In the back-end:
+![Node.js](https://img.shields.io/badge/-Node.js-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express-232323?style=flat&labelColor=000000&logo=express&logoColor=ffffff)
+
 ![Profile views](https://counter.kuber.studio/WenderMachado/dark/count.svg)
 
