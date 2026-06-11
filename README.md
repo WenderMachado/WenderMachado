@@ -36,21 +36,23 @@
 ## Here's some of the stuff I like to use:
 
  ### In the front-end:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=000000&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=000000&logo=css3&logoColor=ffffff)
+![Sass](https://img.shields.io/badge/-Sass-232323?style=flat&labelColor=000000&logo=sass&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=000000&logo=bootstrap&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-232323?style=flat&labelColor=000000&logo=tailwindcss&logoColor=ffffff)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=ffe330)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000)
-![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=nextdotjs&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=ffffff)
+![Vite](https://img.shields.io/badge/-Vite-232323?style=flat&labelColor=000000&logo=vite&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=000000&logo=react&logoColor=ffffff)
+![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
 
  ### In the back-end:
-![Node.js](https://img.shields.io/badge/-Node.js-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
+![Node.js](https://img.shields.io/badge/-Node.js-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/-Express-232323?style=flat&labelColor=000000&logo=express&logoColor=ffffff)
+
+
 
 ![Profile views](https://counter.kuber.studio/WenderMachado/dark/count.svg)
 
