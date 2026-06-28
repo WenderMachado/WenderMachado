@@ -20,7 +20,7 @@
   
   Hello there! 👋<br>
   
-  I’m Wender, a front-end developer and a student of Systems Analysis and Development.
+  I’m Wender, a full-stack developer and a student of Systems Analysis and Development.
 
   <img 
     src="https://github.com/user-attachments/assets/b2223cee-5ca7-4f0a-ba07-77351ccff6b0"
